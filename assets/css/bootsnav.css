@@ -2244,7 +2244,7 @@ nav.navbar.bootsnav {
 
 .navbar-brand>img {
   display: initial;
-  height: auto;
+  height: 50px;
 }
 
 .attr-nav > ul > li {
